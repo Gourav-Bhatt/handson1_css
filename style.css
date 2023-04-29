@@ -1,0 +1,22 @@
+h3{
+    color: red;
+
+}
+ul li{
+    color: rgb(132, 6, 6);
+    
+}
+
+p{
+    color: rgba(161, 38, 1, 0.721);
+}
+.highlight{
+    background-color: yellow;
+}
+
+a{
+    color: rgba(161, 38, 1, 0.721);
+    background-color: yellow;
+    text-decoration: none;
+}
+
